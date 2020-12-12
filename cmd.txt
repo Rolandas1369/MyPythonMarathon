@@ -12,4 +12,7 @@ git branch -> isprintina branchus, zvagzdute yra working branchas
 git branch naujas_branchas -> sukuria nauja brancha
 git merge branchas1 branchas2 sumergina branachus
 
+git push --set-upstream origin new_branch -> prideda nutolulioj repo brancha
+
+
 
